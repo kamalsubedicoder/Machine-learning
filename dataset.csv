@@ -1,0 +1,13 @@
+S.N,Age,marital,bank_am,job,education,loan,buy_car
+1,50,married,453500,banker,tertiary,15650,yes
+2,55,married,84000,service,primary,5000,no
+3,53,married,654052,professor,tertiary,15000,yes
+4,40,married,856545,doctor,tertiary,30000,yes
+5,35,married,652352,engineer,tertiary,25000,yes
+6,45,unmarried,985625,pilot,tertiary,45000,yes
+7,49,unmarried,385456,business,secondary,189542,no
+8,51,married,164428,service,primary,1500,no
+9,48,unmarried,552224,engineer,tertiary,2100,yes
+10,47,married,789775,gov_emp,tertiary,18900,yes
+11,36,married,78965,admin,secondary,2300,no
+12,15,umarried,45000,student,secondary,1500,no
